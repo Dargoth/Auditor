@@ -18,7 +18,7 @@ Platform assembly: C:\Users\Legio\Projects\Unity Projects\Auditorium\Auditor_Dat
 Loading C:\Users\Legio\Projects\Unity Projects\Auditorium\Auditor_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Legio\Projects\Unity Projects\Auditorium\Auditor_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\Legio\Projects\Unity Projects\Auditorium\Auditor_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.088 seconds
+- Completed reload, in  0.067 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
